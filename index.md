@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/dadidzf/dadidzf.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Test
-visit [test](https://github.com/dadidzf/dadidzf.github.io/test.md)
+visit [test](https://github.com/dadidzf/dadidzf.github.io/master/test.md)
 
 ### Markdown
 
