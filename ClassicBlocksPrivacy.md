@@ -1,4 +1,4 @@
-## Privacy Policy
+## Classic Blocks Privacy Policy
 
 ZhuangFeng Deng built the Classic Blocks app as a Free app. This SERVICE is provided by ZhuangFeng Deng at no cost and is intended for use as is.
 
