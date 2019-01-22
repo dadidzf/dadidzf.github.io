@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## 长沙市英雄用武科技有限公司
 
-You can use the [editor on GitHub](https://github.com/dadidzf/dadidzf.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我们是一家游戏研发发行一体的公司，目前有多款产品在Google Play和微信小游戏平台上架，总用户超过300万
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Test
-visit [test](https://github.com/dadidzf/dadidzf.github.io/test.html)
+### Google Play 游戏链接
+https://play.google.com/store/apps/details?id=com.yongwu.tetris099
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 微信小游戏二维码
 
 ```markdown
 Syntax highlighted code block
