@@ -7,7 +7,7 @@
 https://play.google.com/store/apps/details?id=com.yongwu.tetris099
 
 ### 微信小游戏二维码
-![avatar](./tetris.jpg)
+img src="./tetris.jpg" width = 30% height = 30% />
 
 ### Support or Contact
 dengzhuangfeng@gmail.com
