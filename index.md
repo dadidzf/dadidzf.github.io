@@ -7,7 +7,11 @@
 https://play.google.com/store/apps/details?id=com.yongwu.tetris099
 
 ### 微信小游戏二维码
-<img src="http://dadidzf.github.io/tetris.jpg" width = 30% height = 30% />
+<p align="center">
+    <img src="http://dadidzf.github.io/tetris.jpg" alt="Sample"  width="250" height="250">
+    <p align="center">
+    </p>
+</p>
 
 ### Support or Contact
 dengzhuangfeng@gmail.com
