@@ -5,17 +5,17 @@
 
 ### 微信小游戏二维码
 <p align="center">
-    <img src="tetris.jpg" alt="Sample"  width="100" height="100">
+    <img src="tetris.jpg" alt="Sample"  width="250" height="250">
     <p align="center">
     </p>
 </p>
 <p align="center">
-    <img src="english.jpg" alt="Sample"  width="100" height="100">
+    <img src="english.jpg" alt="Sample"  width="250" height="250">
     <p align="center">
     </p>
 </p>
 <p align="center">
-    <img src="math.jpg" alt="Sample"  width="100" height="100">
+    <img src="math.jpg" alt="Sample"  width="250" height="250">
     <p align="center">
     </p>
 </p>
