@@ -24,4 +24,10 @@
 dengzhuangfeng@gmail.com
 
 
-<center>[湘ICP备19006920号](http://www.beian.miit.gov.cn/)</center>
+
+
+
+
+
+
+[湘ICP备19006920号](http://www.beian.miit.gov.cn/)
