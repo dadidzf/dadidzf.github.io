@@ -5,29 +5,25 @@
 
 ### 微信小游戏二维码
 <p align="center">
-    <img src="http://dadidzf.github.io/tetris.jpg" alt="Sample"  width="250" height="250">
+    <img src="tetris.jpg" alt="Sample"  width="100" height="100">
     <p align="center">
     </p>
 </p>
 <p align="center">
-    <img src="http://dadidzf.github.io/english.jpg" alt="Sample"  width="250" height="250">
+    <img src="english.jpg" alt="Sample"  width="100" height="100">
     <p align="center">
     </p>
 </p>
 <p align="center">
-    <img src="http://dadidzf.github.io/math.jpg" alt="Sample"  width="250" height="250">
+    <img src="math.jpg" alt="Sample"  width="100" height="100">
     <p align="center">
     </p>
 </p>
 
-### Support or Contact
+### 联系方式
 dengzhuangfeng@gmail.com
 
+<p align="center">
+    <a href="http://www.beian.miit.gov.cn">湘ICP备19006920号</a>
+</p>
 
-
-
-
-
-
-
-[湘ICP备19006920号](http://www.beian.miit.gov.cn/)
