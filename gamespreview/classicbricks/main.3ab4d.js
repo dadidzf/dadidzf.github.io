@@ -140,7 +140,7 @@ window.boot = function () {
     // jsList
     var jsList = settings.jsList;
 
-    var bundledScript = settings.debug ? 'src/project.dev.js' : 'src/project.6e6ec.js';
+    var bundledScript = settings.debug ? 'src/project.dev.js' : 'src/project.ece86.js';
     if (jsList) {
         jsList = jsList.map(function (x) {
             return 'src/' + x;
@@ -178,7 +178,7 @@ window.boot = function () {
 if (window.jsb) {
     var isRuntime = (typeof loadRuntime === 'function');
     if (isRuntime) {
-        require('src/settings.b25e4.js');
+        require('src/settings.b4940.js');
         require('src/cocos2d-runtime.js');
         if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
             require('src/physics.js');
@@ -186,7 +186,7 @@ if (window.jsb) {
         require('jsb-adapter/engine/index.js');
     }
     else {
-        require('src/settings.b25e4.js');
+        require('src/settings.b4940.js');
         require('src/cocos2d-jsb.js');
         if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
             require('src/physics.js');
