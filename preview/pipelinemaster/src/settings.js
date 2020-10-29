@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","ball","star"],collisionMatrix:[[false],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/Home.fire",orientation:"portrait",jsList:["assets/plugin/GlobalVar.js"]};
