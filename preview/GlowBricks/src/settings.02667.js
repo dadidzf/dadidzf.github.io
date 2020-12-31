@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scenes/SplashScene.fire",orientation:"portrait",jsList:["assets/script/plugin/GlobalVar.ee8b4.js"],bundleVers:{internal:"fbb78",resources:"661ca",main:"54d24"}};
