@@ -5,7 +5,7 @@
 
 
 ### 联系方式
-464874358@gmail.com
+464874358@qq.com
 
 <div class="ftCon-Wrapper"><div id="ftConw">
 <p align="center">
