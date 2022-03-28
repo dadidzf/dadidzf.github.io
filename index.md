@@ -9,6 +9,6 @@
 
 <div class="ftCon-Wrapper"><div id="ftConw">
 <p align="center">
-    <a href="http://www.beian.miit.gov.cn"> <u> 湘ICP备19006920号 </u></a>
+    <a href="http://beian.miit.gov.cn"> <u> 湘ICP备19006920号 </u></a>
 </p>
 </div></div>
