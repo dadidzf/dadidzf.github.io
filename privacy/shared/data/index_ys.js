@@ -80,7 +80,8 @@ obj.fn = function () {
             proDom: document.getElementById('pro'),//产品Dom
             nameDom: document.getElementById('name'),//公司名Dom
             makeTimeDom: document.getElementById('makeTime'),
-            updateTimeDom: document.getElementById('updateTime')
+            updateTimeDom: document.getElementById('updateTime'),
+            privacyAuthorDom: document.getElementById('privacyAuthor')
         }
     };
     //公共数据对象
@@ -120,6 +121,9 @@ obj.fn = function () {
         da.dom.emailBDom.innerHTML = da.hfconfig[da.url.company].email;
         da.dom.makeTimeDom.innerHTML = da.hfconfig.mt;
         da.dom.updateTimeDom.innerHTML = da.hfconfig.ut;
+        da.dom.privacyAuthorDom.innerHTML = da.hfconfig[da.url.company].name;
+
+        thiss.varSetProSet();
     };
 
     thiss.setFinNowConfig = function (configVal) {
