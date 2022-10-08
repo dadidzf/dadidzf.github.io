@@ -1,10 +1,10 @@
 var herofight = {
-    name: "长沙英雄用武科技有限公司",
+    name: "长沙市英雄用武科技有限公司",
     email: "464874358@qq.com"
 };
 
 var witsplay = {
-    name: "长沙市慧玩网络科技有限公司",
+    name: "长沙慧玩网络科技有限公司",
     email: "herofight@foxmail.com"
 };
 
