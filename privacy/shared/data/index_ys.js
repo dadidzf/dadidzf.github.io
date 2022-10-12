@@ -186,7 +186,7 @@ obj.fn = function () {
         if (da.url.n) {
             da.dom.txtAllDom.innerHTML = "欢迎您使用" + da.url.n + ",";
         } else if (da.url.appname) {
-            da.dom.txtAllDom.innerHTML = "欢迎您使用" + da.url.appname + ",";
+            da.dom.txtAllDom.innerHTML = "欢迎您使用" + da.url.appname + "(测试),";
         } else {
             da.dom.txtAllDom.innerHTML = "欢迎您使用本产品！";
         };
